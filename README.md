@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luban6887
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Python and arduino 
-- 📫 How to reach me - lbnpbg@gmail.com
+- 📫 How to reach me - lubanmahfuz@proton.me
 
 <!---
 Luban6887/Luban6887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
